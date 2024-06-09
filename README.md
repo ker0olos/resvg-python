@@ -10,7 +10,7 @@ maturin build
 ### Install
 
 ```bash
-pip install https://github.com/ker0olos/resvg-python/raw/main/target/wheels/resvg_python-0.1.0-cp312-cp312-linux_x86_64.whl
+pip install resvg_python
 ```
 
 ```python

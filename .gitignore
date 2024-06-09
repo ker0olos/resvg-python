@@ -1,4 +1,2 @@
 .venv
-target/debug
-target/*.json
-target/*.TAG
+target
